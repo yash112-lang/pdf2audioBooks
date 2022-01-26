@@ -33,4 +33,3 @@ Clone the project
 - Select the voice in which you want the speaker to speak.
 - User can set the speaker rate as they want(default `speakingRate = 0.8`).
 - User can pass `deafult_attr` as `True` then it will generate audio as output with default voice and parameters.
-
